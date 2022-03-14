@@ -22,7 +22,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   </div><br/>
 
-  Sou estudante de desenvolvimento Web Front-End e Back-End e também desenvolvimento Mobile, amante de novas tecnologias e programação.
+  Sou estudante de desenvolvimento Web Front-End / Back-End e também desenvolvimento Mobile, amante de novas tecnologias e programação.
 
   ## Meus Projetos mais recentes:
   -[Site Genealogiq.com](https://genealogiq.com/)
